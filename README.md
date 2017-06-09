@@ -1,0 +1,1 @@
+# core_mvc_sample
